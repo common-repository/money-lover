@@ -1,0 +1,87 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: Money Lover\n"
+"POT-Creation-Date: 2016-04-18 12:03+0700\n"
+"PO-Revision-Date: 2016-04-14 13:56+0700\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.6\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: money-lover.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;"
+"_n_noop:1,2;_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: money-lover.php:140 money-lover.php:141
+msgid "Money Lover"
+msgstr ""
+
+#: money-lover.php:174
+msgid "Login Fail!!"
+msgstr ""
+
+#: money-lover.php:192
+msgid "Done!!"
+msgstr ""
+
+#: money-lover.php:260
+msgid "Anonymous"
+msgstr ""
+
+#: money-lover.php:282
+#, php-format
+msgid ""
+"Order ID: #%1$s. Transactions ID: %2$s. Products: %3$s. Status: Completed"
+msgstr ""
+
+#: money-lover.php:290
+#, php-format
+msgid ""
+"Order ID: #%1$s. Transactions ID: %2$s. Products: %3$s. Status: Refunded"
+msgstr ""
+
+#: views/admin.php:5
+msgid "Shop Name"
+msgstr ""
+
+#: views/admin.php:10
+msgid "Login with:"
+msgstr ""
+
+#: views/admin.php:17
+msgid "Wallet ID"
+msgstr ""
+
+#: views/admin.php:23
+msgid "Login"
+msgstr ""
+
+#: views/admin.php:25
+msgid "Logout"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "Money Lover for EDD"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"A plugin which helps you to manage your online transactions via Money "
+"Lover app."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "DesignWall"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://www.designwall.com"
+msgstr ""
